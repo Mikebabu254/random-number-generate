@@ -1,3 +1,4 @@
+# a python program that generates number
 import random
 
 def generate_random_eight_digit_number():
